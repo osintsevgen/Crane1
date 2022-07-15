@@ -1,0 +1,15 @@
+{%  extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+
+{{ plot1 | safe }}
+{{ plot2 | safe }}
+
+<form method="GET" action="{% url 'core' %}">
+    {{ form.as_p }}
+
+    <button>Submit</button>
+</form>
+
+{% endblock content %}

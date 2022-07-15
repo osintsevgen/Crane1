@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/plotly_django_tutorial.iml" filepath="$PROJECT_DIR$/.idea/plotly_django_tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Scale.iml" filepath="$PROJECT_DIR$/.idea/Scale.iml" />
     </modules>
   </component>
 </project>
